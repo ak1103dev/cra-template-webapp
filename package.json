@@ -1,0 +1,9 @@
+{
+  "name": "cra-template-webapp",
+  "version": "0.1.0",
+  "description": "create react app for webapp",
+  "main": "template.json",
+  "repository": "git@github.com:ak1103dev/cra-template-webapp.git",
+  "author": "ak1103dev <ak.apichan1103@gmail.com>",
+  "license": "MIT"
+}
